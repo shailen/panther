@@ -1,0 +1,5 @@
+name:  panther
+description:  A simple templating engine 
+
+dev_dependencies:
+  unittest: any
